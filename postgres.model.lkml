@@ -14,3 +14,5 @@ datagroup: postgres_default_datagroup {
 persist_with: postgres_default_datagroup
 
 explore: company {}
+
+explore: pdt {}
