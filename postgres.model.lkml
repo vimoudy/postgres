@@ -1,4 +1,4 @@
-connection: "postgres"
+#connection: "postgres"
 
 # include all the views
 include: "*.view"
